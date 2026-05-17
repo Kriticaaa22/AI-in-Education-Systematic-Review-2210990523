@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27866505/README.md)
 # AI in Education: Applications, Benefits and Challenges – A Systematic Review
 
 ## Project Details
@@ -18,6 +17,14 @@ This systematic literature review examines the current state of artificial intel
 - **Publication Period:** 2010-2022
 - **Databases Used:** IEEE Xplore, SpringerLink, Google Scholar, ACM Digital Library
 - **Focus Areas:** Personalized learning, intelligent tutoring systems, automated assessment, learning analytics
+
+## Key Findings
+
+- **Research Concentration:** 47.6% of existing research focuses on student profiling and performance prediction
+- **Ethics Gap:** Only 5 out of 146 reviewed papers addressed ethical concerns
+- **Research Growth:** 400% increase in publications between 2010 and 2020
+- **Geographic Bias:** Over 70% of research originates from USA, China, and UK
+- **Deployment Gap:** Lab success does not equal classroom adoption due to infrastructure and teacher training barriers
 
 ## Research Methodology
 
@@ -105,14 +112,6 @@ This systematic literature review examines the current state of artificial intel
 - **Paper ID:** 766
 - **Track:** Artificial Intelligence and Data Science
 - **Status:** Submitted on April 24, 2026
-
-## Key Recommendations
-
-1. **Before Deployment:** Ask who benefits, who might be harmed, and whether students had input
-2. **Teacher Training:** Prioritize professional development over technology acquisition
-3. **Ethical Frameworks:** Develop comprehensive guidelines for data privacy, algorithmic fairness, and transparency
-4. **Geographic Diversity:** Expand research to underrepresented regions including developing countries
-5. **Longitudinal Studies:** Conduct long-term research tracking effects over months and years
 
 ## References
 
