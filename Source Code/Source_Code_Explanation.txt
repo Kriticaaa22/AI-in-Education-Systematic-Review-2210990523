@@ -1,0 +1,79 @@
+PROJECT: AI in Education - Systematic Literature Review
+STUDENT: Kritica Jain (2210990523)
+PROJECT TYPE: Research Project
+
+===============================================================
+SOURCE CODE EXPLANATION
+===============================================================
+
+This is a systematic literature review research project analyzing 
+15 peer-reviewed studies on AI applications in education.
+
+As this is a QUALITATIVE RESEARCH ANALYSIS (not a software 
+development project), there is no executable source code or 
+programming files.
+
+The research methodology, data analysis framework, and complete 
+findings are documented in the submitted project report.
+
+===============================================================
+RESEARCH FRAMEWORK
+===============================================================
+
+1. DATABASE SEARCH STRATEGY
+   - IEEE Xplore, SpringerLink, Google Scholar, ACM Digital Library
+   - Search terms: "AI in Education", "Intelligent Tutoring Systems", 
+     "Adaptive Learning", "Learning Analytics"
+   - Initial results: 252 papers
+
+2. FILTERING METHODOLOGY
+   - Inclusion criteria: Peer-reviewed, 2010-2022, educational focus
+   - Exclusion criteria: Purely theoretical, non-English
+   - Filtered results: 47 papers
+
+3. SELECTION PROCESS
+   - Full-text quality assessment
+   - Methodological rigor evaluation
+   - Final selection: 15 high-quality studies
+
+4. THEMATIC ANALYSIS
+   - Application areas
+   - Effectiveness measures
+   - Implementation challenges
+   - Ethical considerations
+   - Geographic context
+
+===============================================================
+DELIVERABLES
+===============================================================
+
+All analysis, findings, and recommendations are available in:
+- Project Report (Section 3: Research Methodology)
+- Research Paper (IEEE format submission)
+- Presentation slides
+
+For detailed methodology, please refer to the complete project 
+report in the "2_Report_and_PPT" folder.
+
+===============================================================
+NOTE
+===============================================================
+
+This research project focuses on systematic literature analysis 
+rather than software development. The "source" of this work is 
+the reviewed academic literature, not programming code.
+
+All 15 reviewed papers are properly cited in the References 
+section of the project report.
+
+===============================================================
+CONTACT
+===============================================================
+
+For any queries regarding this research project:
+- Student: Kritica Jain
+- Roll Number: 2210990523
+- Email: kritica523.be22@chitkara.edu.in
+- Supervisor: Dr. Lalit K. Sharma
+- Department: Computer Science & Engineering
+- Institution: Chitkara University, Punjab
